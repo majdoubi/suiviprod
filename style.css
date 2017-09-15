@@ -1,0 +1,25 @@
+.parent {
+  margin-left: 300px;
+    margin-right: 300px;
+ margin-top:0px;
+position: center ; 
+}
+.time{
+ margin-top:0px;
+float:right;
+}
+.radar{
+
+margin-top:0%;
+float:left;
+}
+#myChart{
+height:100px;
+width:100px;
+float:left;
+}
+#myRadar{
+height:100px;
+width:100px;
+float:left;
+}
